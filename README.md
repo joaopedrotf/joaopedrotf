@@ -1,9 +1,9 @@
 ### Olá, eu sou Joao Pedro Teixeira.
 
 <hr>
-- 🔭 Estudante de programação e desenvolvimento pelo IFMG-Campus Arcos-MG.<br>
-- ⚡ Estudando back-end com PHP e NodeJS, desenvolvimento android com JAVA.<br>
-- 🌱 buscando meu primeiro estágio em desenvolvimento.<br>
+- 🔭 Técnico em Informática com ênfase em programação e desenvolvimento pelo IFMG-Campus Arcos MG.<br>
+- ⚡ Trabalhando com o desenvolvimento dos algoritmos do SGARH na empresa Minerion LTDA.<br>
+- 🌱 Estudando JavaScript.<br>
 <hr>
 <div align="center">
   <a href="https://github.com/rafaballerini">
